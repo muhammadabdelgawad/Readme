@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="[[https://www.linkedin.com/in/ahmed-ashraf-b96a132b1/](https://www.linkedin.com/in/muhammad-abd-elgawad-403a31240/)](https://www.linkedin.com/in/muhammad-abd-elgawad-403a31240/)" target="https://www.linkedin.com/in/muhammad-abd-elgawad-403a31240/">
+  <a href="(https://www.linkedin.com/in/muhammad-abd-elgawad-403a31240/)](https://www.linkedin.com/in/muhammad-abd-elgawad-403a31240/)" target="https://www.linkedin.com/in/muhammad-abd-elgawad-403a31240/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -10,7 +10,7 @@
 <h3 align="center">A Passionate Backend Developer from Egypt</h3>
 <img align="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning *.Net*
+- 🌱 I’m A *.Net Developer*
 
 - 💬 Ask me about **Asp.Net **
 
